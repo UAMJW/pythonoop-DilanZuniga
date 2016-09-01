@@ -4,9 +4,7 @@
 | --- | --- | --- | --- | -- | | -- |
 |Dilan Zúniga| 0.0.1 | GPLv3 | 08-26-2016 |
 
----
-
-<hr><hr>
+-
 # Tarea 1. 
 
 El aprendizaje principal de esta tarea es conocer sobre los conceptos básicos del lenguaje Python .
@@ -15,9 +13,7 @@ El aprendizaje principal de esta tarea es conocer sobre los conceptos básicos d
 ## Como iniciar
 Para ejecutar el archivo podemos darle doble click o abrir la consola de comandos y ejecutar el siguiente comando:
 
-```
-
-```
+```python
 > python realty.py
 ```
 
