@@ -36,7 +36,9 @@ class myClass(object):
         #método que imprime en pantalla la propiedad de la clase
         print self.propiedad
         
-```python
+```
+
+```
 Gracias
 ```
 
